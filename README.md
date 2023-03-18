@@ -14,3 +14,7 @@ excell basics
 
 3. Gradebook
 excell basics
+
+4. House Price Prediction-(XGB-Regressor Model)
+5. Diabetes Prediction 
+6. Wine quality Prediction-(Random Forest Model)
